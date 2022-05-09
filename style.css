@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+main{
+    width: 70%;
+    height: 900px;
+    margin: auto;
+    background-color: blueviolet;
+}
+
+.wrapper{
+    width: 70%;
+    margin: auto;
+    background-color: red;
+    text-align: center;
+}
+
+.wrapper > h1{
+    background-color: aqua;
+}
+
+nav{
+    margin: auto;
+    
+}
